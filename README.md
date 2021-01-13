@@ -4,6 +4,7 @@
 
 This program iterates through the capterra job postings and is trained for over 100 different companies listed on capterra.
 Uses salesforge extension to fillout the information respectively on each forum and login is required initally when browser opens.
+Run this program by running bot.py using python 3 and above.
 
 <h2>Features</h2> 
  
