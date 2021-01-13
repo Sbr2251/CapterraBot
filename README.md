@@ -17,7 +17,8 @@ Uses salesforge extension to fillout the information respectively on each forum 
 - Requests 2.21.0
 - Selenium 3.14.0
 - PyAutoGui
-- Chrome Browser Driver
+- Chrome Browser Driver to be downloaded and placed in a folder named drivers
+- Sourcescrub crx extension file in a folder named extensions
 
 <h2>License</h2>
 
